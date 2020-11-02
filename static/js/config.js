@@ -1,1 +1,1 @@
-const DATA_URL = "ADD DATA URL HERE";
+const DATA_URL = "data/samples.json";
